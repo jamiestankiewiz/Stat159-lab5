@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 ndfjksfhjksd
 
 bye 
 hello
+=======
+
+hellorerer
+
+asdfasdf
+
+ndfjksfhjksd
+>>>>>>> task3B
