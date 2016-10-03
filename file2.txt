@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AAAAAAAAAAAAAAAAAA
+=======
+hello my name is Phil!
+>>>>>>> 654776f749888c904c4ba3b7659282311090d24a

@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 ndfjksfhjksd
 -modification2 (for task 3)
 
+=======
+<<<<<<< HEAD
+ndfjksfhjksd
+
+bye 
+hello
+=======
+
+hellorerer
+
+asdfasdf
+
+ndfjksfhjksd
+>>>>>>> task3B
+>>>>>>> 654776f749888c904c4ba3b7659282311090d24a
